@@ -1,5 +1,8 @@
 # Rust Action Builder
 
+[![GitHub Stars](https://img.shields.io/github/stars/Android-KitKat/rust-action-builder?label=GitHub%20stars)](https://github.com/Android-KitKat/rust-action-builder)
+[![Docker Stars](https://img.shields.io/docker/stars/android99/rust-action-builder?style=social&logo=docker)](https://hub.docker.com/r/android99/rust-action-builder)
+
 [![Docker Image Version](https://img.shields.io/docker/v/android99/rust-action-builder/latest)](https://hub.docker.com/r/android99/rust-action-builder)
 [![Docker Image Size](https://img.shields.io/docker/image-size/android99/rust-action-builder/latest)](https://hub.docker.com/r/android99/rust-action-builder)
 [![Docker Image Pulls](https://img.shields.io/docker/pulls/android99/rust-action-builder)](https://hub.docker.com/r/android99/rust-action-builder)
